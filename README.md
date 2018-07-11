@@ -242,3 +242,4 @@ In this project, you had the choice to use _either_ spectrogram or MFCC features
 ## Special Thanks
 
 We have borrowed the `create_desc_json.py` and `flac_to_wav.sh` files from the [ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech) repository, along with some functions used to generate spectrograms.
+# AIND-VUI-Capstone
